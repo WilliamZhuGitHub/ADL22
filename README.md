@@ -2,7 +2,10 @@
 
 # 1. Introduction
   1. I added more dense layers and made it deeper. It beat the goal of linear regression’s 24.29 MSE.  
-  2. Increasing the amount of neurons will make the NN more overfitted towards the training data.
+
+![image](https://user-images.githubusercontent.com/56366459/171251747-14781a96-af83-4ac3-a9e8-d080e85d0929.png)
+
+  3. Increasing the amount of neurons will make the NN more overfitted towards the training data.
 
 # 2. Intro to convolution operations: padding
   1.	A response layer is the filter after using the convolution.  
