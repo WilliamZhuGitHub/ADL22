@@ -1,8 +1,8 @@
 # ADL22
 
 # 1. Introduction
-  1	I added more dense layers and made it deeper. It beat the goal of linear regression’s 24.29 MSE.  
-  2	Increasing the amount of neurons will make the NN more overfitted towards the training data.
+  1. I added more dense layers and made it deeper. It beat the goal of linear regression’s 24.29 MSE.  
+  2. Increasing the amount of neurons will make the NN more overfitted towards the training data.
 
 # 2. Intro to convolution operations: padding
   1.	A response layer is the filter after using the convolution.  
