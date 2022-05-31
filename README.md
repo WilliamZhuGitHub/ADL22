@@ -20,7 +20,7 @@
 # 4. ConvNet Architectures, layers
   1.	I: Input Volume (Size of the input),  F: Filter (Size of the kernel), S: Stride (Distance between successive windows), P: Zero Padding (Padding added to the 	     edges), O: Output Size (Size of the output).
   2.	(100-2+(2*0)/1)+1 =  The output size = 98
-  3.	2*2*24 = 96 weights
+  3.	2x2x24 = 96 weights
   4.	To get the same input and output size p has to be equal to p = ((S-1)*I – S+F) /2
  
 # 5. Practical Patterns
