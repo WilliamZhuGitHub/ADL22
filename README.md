@@ -19,7 +19,7 @@
   2.	(100-2+(2*0)/1)+1 =  output size = 98
   3.	2*2*24 = 96 weights
   4.	((S-1)*I – S+F) /2
-  5.	
+ 
 # 5. Practical Patterns
   1.	ImageDataGenerator is used to modify images while the model is still training. This can be useful in the case of overfitting. 
   2.	Using small kernel sizes is better because larger kernels take more time to train. 4(2,2) is 16 weights whereas 8x8 is 64 weights. 
